@@ -1,0 +1,5 @@
+name = "SSDCLabRegistry"
+uuid = "b768df45-5831-444c-95fa-9e8159f30039"
+repo = "https://github.com/UB-SSDC-Lab/SSDCLabRegistry.git"
+
+[packages]
