@@ -5,3 +5,4 @@ repo = "https://github.com/UB-SSDC-Lab/SSDCLabRegistry.git"
 [packages]
 25b58b08-a34a-4ec2-a22a-6e6adccd2f2d = { name = "GlobalOptimization", path = "G/GlobalOptimization" }
 4cf003db-9ce5-4b9c-be33-539375ceab17 = { name = "CRTBPNaturalMotion", path = "C/CRTBPNaturalMotion" }
+eead6e0c-2d5b-5641-a95c-b722de96d551 = { name = "PRIMA_jll", path = "jll/P/PRIMA_jll" }
