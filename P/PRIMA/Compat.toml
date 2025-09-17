@@ -1,0 +1,6 @@
+[0]
+CUTEst = "1.0.1 - 1"
+PRIMA_jll = "0.7.2 - 0.7"
+Requires = "1"
+TypeUtils = ["0.3", "1"]
+julia = "1.6.0 - 1"
