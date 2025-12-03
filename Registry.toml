@@ -6,4 +6,5 @@ repo = "https://github.com/UB-SSDC-Lab/SSDCLabRegistry.git"
 0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed = { name = "PRIMA", path = "P/PRIMA" }
 25b58b08-a34a-4ec2-a22a-6e6adccd2f2d = { name = "GlobalOptimization", path = "G/GlobalOptimization" }
 4cf003db-9ce5-4b9c-be33-539375ceab17 = { name = "CRTBPNaturalMotion", path = "C/CRTBPNaturalMotion" }
+8e902b83-7c50-5151-970b-bd6ceca8bed7 = { name = "SSDC_PRIMA_jll", path = "jll/S/SSDC_PRIMA_jll" }
 eead6e0c-2d5b-5641-a95c-b722de96d551 = { name = "PRIMA_jll", path = "jll/P/PRIMA_jll" }
