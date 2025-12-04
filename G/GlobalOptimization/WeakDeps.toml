@@ -1,0 +1,4 @@
+["0.4 - 0"]
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+SSDC_PRIMA = "6aa5b8c0-d068-11f0-b7a0-99dc21418034"

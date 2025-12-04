@@ -1,0 +1,4 @@
+["0.4 - 0"]
+NonlinearSolve = "4.8.0 - 4"
+Optim = "1"
+SSDC_PRIMA = "0.2.3 - 0.2"
