@@ -1,0 +1,5 @@
+[0]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+SSDC_PRIMA_jll = "8e902b83-7c50-5151-970b-bd6ceca8bed7"
+TypeUtils = "c3b1956e-8857-4d84-9b79-890df85b1e67"
